@@ -1,0 +1,10 @@
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\bin\Debug\MATEMATİK FONKSİYONLARI.exe.config
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\bin\Debug\MATEMATİK FONKSİYONLARI.exe
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\bin\Debug\MATEMATİK FONKSİYONLARI.pdb
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK FONKSİYONLARI.csprojAssemblyReference.cache
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK_FONKSİYONLARI.Form1.resources
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK_FONKSİYONLARI.Properties.Resources.resources
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK FONKSİYONLARI.csproj.GenerateResource.cache
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK FONKSİYONLARI.csproj.CoreCompileInputs.cache
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK FONKSİYONLARI.exe
+C:\Users\zehol\source\repos\MATEMATİK FONKSİYONLARI\MATEMATİK FONKSİYONLARI\obj\Debug\MATEMATİK FONKSİYONLARI.pdb
